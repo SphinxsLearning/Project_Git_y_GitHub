@@ -1,0 +1,8 @@
+Los números se clasifican en:
+1. Números naturales
+2. Números enteros
+3. Números racionales
+4. Números irracionales
+5. Números reales
+6. Números imaginarios
+7. Números complejos
